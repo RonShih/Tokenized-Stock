@@ -1,5 +1,8 @@
 node_modules/
 
+# Environment variables
+.env
+
 # Artifacts
 build/
 bin/
